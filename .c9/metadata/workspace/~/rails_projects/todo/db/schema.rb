@@ -1,0 +1,1 @@
+{"filter":false,"title":"schema.rb","tooltip":"~/rails_projects/todo/db/schema.rb","ace":{},"undoManager":{"mark":0,"position":-1,"stack":[]},"timestamp":1427779738000,"hash":"c8e850a83132aae2f1f93f3f6348cc5178f375ed"}

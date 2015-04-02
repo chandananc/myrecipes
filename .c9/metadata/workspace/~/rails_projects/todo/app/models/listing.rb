@@ -1,0 +1,1 @@
+{"filter":false,"title":"listing.rb","tooltip":"~/rails_projects/todo/app/models/listing.rb","ace":{},"undoManager":{"mark":0,"position":-1,"stack":[]},"timestamp":1427780374000,"hash":"26e299c2f856b18588b854ecdc0781354828520e"}

@@ -1,0 +1,1 @@
+{"filter":false,"title":"comment.rb","tooltip":"~/rails_projects/Blog/app/models/concerns/comment.rb","ace":{},"undoManager":{"mark":0,"position":-1,"stack":[]},"timestamp":1428131980000,"hash":"e8ad51c3b307cfe0b643ec6ae572fe7259a08d1b"}

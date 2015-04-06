@@ -1,0 +1,1 @@
+{"filter":false,"title":"chef.rb","tooltip":"~/rails_projects/Blog/app/models/concerns/chef.rb","ace":{},"undoManager":{"mark":0,"position":-1,"stack":[]},"timestamp":1428140463000,"hash":"67452301efcdab8998badcfe10325476c3d2e1f0"}

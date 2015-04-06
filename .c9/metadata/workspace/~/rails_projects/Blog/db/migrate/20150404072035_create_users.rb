@@ -1,0 +1,1 @@
+{"filter":false,"title":"20150404072035_create_users.rb","tooltip":"~/rails_projects/Blog/db/migrate/20150404072035_create_users.rb","ace":{},"undoManager":{"mark":0,"position":-1,"stack":[]},"timestamp":1428132195000,"hash":"8f8156c454245835b1ea8260f8de35e7db3f99f4"}
